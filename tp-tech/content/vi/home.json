@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Dịch Vụ Thiết Kế Website Trọn Gói - TP Creative Tech",
+    "subtitle": "Nhanh – Chuẩn – Hiệu Quả",
+    "description": "TP Creative Tech giúp thương hiệu của bạn xuất hiện đúng lúc, đúng nơi, dễ dàng tiếp cận khách hàng trên mọi nền tảng số.",
+    "paragraphs": [
+      "Chúng tôi cung cấp giải pháp thiết kế website trọn gói cho doanh nghiệp và cá nhân, sẵn sàng cho SEO, Digital Marketing và tăng trưởng lâu dài.",
+      "Tại TP Creative Tech, mỗi website không chỉ đẹp mà còn dễ dùng, tối ưu hiệu suất và chuyển đổi – giúp bạn tập trung phát triển kinh doanh.",
+      "Từ thiết kế giao diện, xây dựng hệ thống đến vận hành, TP Creative Tech đồng hành cùng bạn trên hành trình xây dựng thương hiệu số."
+    ],
+    "ctaText": "Liên hệ tư vấn",
+    "ctaPhone": "037 654 9230",
+    "ctaLink": "tel:0376549230",
+    "image": "/images/item.png"
+  },
+  "about": {
+    "title": "Về TP Creative Tech",
+    "content": "Với hơn 3 năm kinh nghiệm trong lĩnh vực công nghệ thông tin, TP Creative Tech tự hào là đối tác tin cậy của các doanh nghiệp tại Việt Nam và khu vực. Chúng tôi chuyên cung cấp các giải pháp công nghệ toàn diện, từ tư vấn, phát triển phần mềm đến chuyển đổi số.",
+    "points": [
+      "3+ năm kinh nghiệm",
+      "30+ dự án thành công",
+      "Đội ngũ chuyên gia giàu kinh nghiệm",
+      "Cam kết chất lượng và tiến độ"
+    ],
+    "stats": [
+      { "number": 3, "suffix": "+", "label": "Năm kinh nghiệm" },
+      { "number": 30, "suffix": "+", "label": "Dự án thành công" },
+      { "number": 24, "suffix": "/7", "label": "Hỗ trợ khách hàng" },
+      { "number": 100, "suffix": "%", "label": "Cam kết chất lượng" }
+    ],
+    "viewDetailsText": "Xem chi tiết"
+  },
+  "services": {
+    "title": "Dịch vụ nổi bật",
+    "subtitle": "Giải pháp công nghệ toàn diện cho mọi nhu cầu của doanh nghiệp"
+  },
+  "cta": {
+    "title": "Sẵn sàng chuyển đổi số?",
+    "description": "Liên hệ với chúng tôi ngay hôm nay để nhận tư vấn miễn phí về giải pháp công nghệ phù hợp với doanh nghiệp của bạn.",
+    "buttonText": "Liên hệ ngay",
+    "buttonLink": "/contact"
+  },
+  "formContact": {
+    "title1": "Xây dựng website chuyên nghiệp",
+    "title2": "Cùng TP Creative Tech ngay",
+    "companyLabel": "Tên công ty/doanh nghiệp",
+    "phoneLabel": "SĐT Liên Hệ",
+    "emailLabel": "Email",
+    "messageLabel": "Lời nhắn",
+    "submitLabel": "Tư vấn báo giá",
+    "companyPlaceholder": "VD: Công ty ABC",
+    "phonePlaceholder": "VD: 0901234567",
+    "emailPlaceholder": "VD: info@congty.com",
+    "messagePlaceholder": "VD: Tôi muốn làm website giới thiệu công ty..."
+  },
+  "seo": {
+    "metaTitle": "TP Creative Tech - Đối tác chuyển đổi số doanh nghiệp",
+    "metaDescription": "TP Creative Tech cung cấp giải pháp công nghệ toàn diện: phát triển phần mềm, tư vấn IT, chuyển đổi số. Hơn 3 năm kinh nghiệm, 30+ dự án thành công.",
+    "keywords": ["chuyển đổi số", "phát triển phần mềm", "tư vấn công nghệ", "giải pháp IT", "doanh nghiệp"],
+    "ogImage": "/og-home.jpg"
+  }
+}

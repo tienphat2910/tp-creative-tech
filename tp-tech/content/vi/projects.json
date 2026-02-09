@@ -1,0 +1,10 @@
+{
+  "title": "Với hơn 30+ dự án thành công",
+  "viewMore": "Xem thêm dự án",
+  "images": [
+    { "src": "/images/tianlong.webp", "alt": "Dự án Tianlong" },
+    { "src": "/images/explore-vietnam.webp", "alt": "Dự án Khám phá Việt Nam" },
+    { "src": "/images/lutrip.jpeg", "alt": "Dự án Lutrip" },
+    { "src": "/images/smartdental.jpeg", "alt": "Dự án Smart Dental" }
+  ]
+}

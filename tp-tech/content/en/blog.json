@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "slug": "digital-transformation-trends-2026",
+      "title": "Digital Transformation Trends 2026: What Businesses Need to Know",
+      "excerpt": "Discover the latest technology trends and how businesses can leverage them for sustainable growth in 2026.",
+      "content": "Digital transformation is no longer optional but has become a necessity for all businesses. 2026 marks an important turning point...\n\n## Key Trends\n\n### 1. AI and Machine Learning\nArtificial intelligence is being deeply integrated into all business processes, from customer service to business forecasting.\n\n### 2. Cloud-First Strategy\nMore and more businesses are moving to a cloud-first model to increase flexibility and reduce operating costs.\n\n### 3. Automation & RPA\nProcess automation helps businesses save time and increase accuracy in their work.\n\n## Conclusion\nTo succeed in digital transformation, businesses need a clear strategy and a reliable technology partner.",
+      "author": "John Doe",
+      "date": "2026-01-15",
+      "category": "Digital Transformation",
+      "tags": ["digital transformation", "AI", "cloud", "automation"],
+      "featuredImage": "/blog/digital-transformation-2026.jpg",
+      "seo": {
+        "metaTitle": "Digital Transformation Trends 2026 - Latest Updates | TechPro",
+        "metaDescription": "Learn about the most important technology and digital transformation trends in 2026 that businesses cannot ignore.",
+        "keywords": ["2026 trends", "digital transformation", "AI", "cloud computing", "automation"],
+        "ogImage": "/blog/digital-transformation-2026.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "slug": "how-to-choose-software-development-partner",
+      "title": "How to Choose the Right Software Development Partner?",
+      "excerpt": "5 important criteria to help you choose a reputable and professional software development partner.",
+      "content": "Choosing a software development partner plays a decisive role in project success...\n\n## 5 Important Criteria\n\n### 1. Experience and Expertise\nReview portfolio and previous projects.\n\n### 2. Work Process\nA good partner must have a clear, transparent process.\n\n### 3. Technology and Tools\nUse modern technology suitable for requirements.\n\n### 4. Communication\nEffective communication is the key to successful projects.\n\n### 5. Post-Project Support\nCommitment to warranty and long-term support.",
+      "author": "Jane Smith",
+      "date": "2026-01-10",
+      "category": "Consulting",
+      "tags": ["software development", "consulting", "choosing partner"],
+      "featuredImage": "/blog/choose-software-partner.jpg",
+      "seo": {
+        "metaTitle": "How to Choose a Reputable Software Development Partner | TechPro",
+        "metaDescription": "Detailed guide on 5 important criteria for choosing the right software development partner for your business.",
+        "keywords": ["software development", "choosing IT partner", "outsourcing", "IT consulting"],
+        "ogImage": "/blog/choose-software-partner.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "slug": "benefits-of-cloud-computing",
+      "title": "Benefits of Cloud Computing for Small and Medium Enterprises",
+      "excerpt": "Cloud computing is not just for large enterprises. Learn how SMEs can leverage cloud for growth.",
+      "content": "Cloud computing is changing how small and medium enterprises operate...\n\n## Main Benefits\n\n### Cost Savings\nNo upfront infrastructure investment, pay only for what you use.\n\n### Flexibility\nEasily scale resources up or down as needed.\n\n### Security\nCloud providers invest heavily in security.\n\n### Remote Work\nEmployees can access from anywhere.",
+      "author": "Mike Johnson",
+      "date": "2026-01-05",
+      "category": "Cloud Computing",
+      "tags": ["cloud computing", "SME", "cost savings"],
+      "featuredImage": "/blog/cloud-benefits.jpg",
+      "seo": {
+        "metaTitle": "Cloud Computing Benefits for SME - Comprehensive Guide | TechPro",
+        "metaDescription": "Discover how Cloud Computing helps small and medium enterprises save costs, increase flexibility and improve performance.",
+        "keywords": ["cloud computing", "SME", "small medium enterprises", "cost savings", "AWS", "Azure"],
+        "ogImage": "/blog/cloud-benefits.jpg"
+      }
+    }
+  ]
+}

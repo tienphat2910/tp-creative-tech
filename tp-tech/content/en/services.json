@@ -1,0 +1,60 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "slug": "web-design",
+      "title": "Website Design",
+      "description": "Professional website design optimized for SEO and user experience. Modern, responsive interface on all devices.",
+      "icon": "code",
+      "features": [
+        "Responsive Design",
+        "SEO Optimized", 
+        "Modern UI/UX",
+        "Fast Loading Speed",
+        "Cross-browser Compatible"
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "web-maintenance",
+      "title": "Website Maintenance",
+      "description": "Regular website maintenance and update services. Ensure your website always operates stably and securely.",
+      "icon": "settings",
+      "features": [
+        "Regular Updates",
+        "Security Monitoring",
+        "Backup & Recovery", 
+        "Performance Optimization",
+        "Technical Support"
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "ecommerce",
+      "title": "E-commerce Website",
+      "description": "Build complete e-commerce websites. Integrate payment, order management and inventory systems.",
+      "icon": "shopping-cart",
+      "features": [
+        "Shopping Cart",
+        "Payment Gateway",
+        "Inventory Management",
+        "Order Tracking",
+        "Customer Dashboard"
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "mobile-app",
+      "title": "Mobile App",
+      "description": "Develop custom mobile applications for iOS and Android. User-friendly interface, high performance and API integration.",
+      "icon": "smartphone", 
+      "features": [
+        "iOS & Android",
+        "Native Performance",
+        "API Integration",
+        "Push Notifications",
+        "Offline Support"
+      ]
+    }
+  ]
+}

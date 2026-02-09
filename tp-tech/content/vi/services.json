@@ -1,0 +1,60 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "slug": "web-design",
+      "title": "Thiết kế website",
+      "description": "Thiết kế website chuyên nghiệp, tối ưu SEO và trải nghiệm người dùng. Giao diện hiện đại, responsive trên mọi thiết bị.",
+      "icon": "code",
+      "features": [
+        "Responsive Design",
+        "SEO Optimized",
+        "Modern UI/UX",
+        "Fast Loading Speed",
+        "Cross-browser Compatible"
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "web-maintenance",
+      "title": "Chăm sóc Website",
+      "description": "Dịch vụ bảo trì và cập nhật website đều đặn. Đảm bảo website luôn hoạt động ổn định và bảo mật.",
+      "icon": "settings",
+      "features": [
+        "Regular Updates",
+        "Security Monitoring",
+        "Backup & Recovery",
+        "Performance Optimization",
+        "Technical Support"
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "ecommerce",
+      "title": "Thiết kế E-commerce Website",
+      "description": "Xây dựng website thương mại điện tử hoàn chỉnh. Tích hợp thanh toán, quản lý đơn hàng và kho hàng.",
+      "icon": "shopping-cart",
+      "features": [
+        "Shopping Cart",
+        "Payment Gateway",
+        "Inventory Management",
+        "Order Tracking",
+        "Customer Dashboard"
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "mobile-app",
+      "title": "App mobile",
+      "description": "Phát triển ứng dụng mobile tùy chỉnh cho iOS và Android. Giao diện thân thiện, hiệu năng cao và tích hợp API.",
+      "icon": "smartphone",
+      "features": [
+        "iOS & Android",
+        "Native Performance",
+        "API Integration",
+        "Push Notifications",
+        "Offline Support"
+      ]
+    }
+  ]
+}

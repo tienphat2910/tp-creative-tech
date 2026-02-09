@@ -1,0 +1,10 @@
+{
+  "title": "With over 30+ successful projects",
+  "viewMore": "View more projects",
+  "images": [
+    { "src": "/images/tianlong.webp", "alt": "Tianlong Project" },
+    { "src": "/images/explore-vietnam.webp", "alt": "Explore Vietnam Project" },
+    { "src": "/images/lutrip.jpeg", "alt": "Lutrip Project" },
+    { "src": "/images/smartdental.jpeg", "alt": "Smart Dental Project" }
+  ]
+}

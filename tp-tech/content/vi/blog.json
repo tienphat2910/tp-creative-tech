@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "slug": "xu-huong-chuyen-doi-so-2026",
+      "title": "Xu hướng chuyển đổi số năm 2026: Những điều doanh nghiệp cần biết",
+      "excerpt": "Khám phá những xu hướng công nghệ mới nhất và cách doanh nghiệp có thể tận dụng để tăng trưởng bền vững trong năm 2026.",
+      "content": "Chuyển đổi số không còn là lựa chọn mà đã trở thành yêu cầu bắt buộc đối với mọi doanh nghiệp. Năm 2026 đánh dấu một bước ngoặt quan trọng...\n\n## Các xu hướng nổi bật\n\n### 1. AI và Machine Learning\nTrí tuệ nhân tạo đang được tích hợp sâu vào mọi quy trình nghiệp vụ, từ customer service đến dự báo kinh doanh.\n\n### 2. Cloud-First Strategy\nNgày càng nhiều doanh nghiệp chuyển sang mô hình cloud-first để tăng tính linh hoạt và giảm chi phí vận hành.\n\n### 3. Automation & RPA\nTự động hóa quy trình giúp doanh nghiệp tiết kiệm thời gian và tăng độ chính xác trong công việc.\n\n## Kết luận\nĐể thành công trong chuyển đổi số, doanh nghiệp cần có chiến lược rõ ràng và đối tác công nghệ đáng tin cậy.",
+      "author": "Nguyễn Văn A",
+      "date": "2026-01-15",
+      "category": "Chuyển đổi số",
+      "tags": ["chuyển đổi số", "AI", "cloud", "automation"],
+      "featuredImage": "/blog/digital-transformation-2026.jpg",
+      "seo": {
+        "metaTitle": "Xu hướng chuyển đổi số 2026 - Cập nhật mới nhất | TechPro",
+        "metaDescription": "Tìm hiểu những xu hướng công nghệ và chuyển đổi số quan trọng nhất năm 2026 mà doanh nghiệp không thể bỏ qua.",
+        "keywords": ["xu hướng 2026", "chuyển đổi số", "AI", "cloud computing", "automation"],
+        "ogImage": "/blog/digital-transformation-2026.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "slug": "lam-the-nao-de-chon-doi-tac-phat-trien-phan-mem",
+      "title": "Làm thế nào để chọn đối tác phát triển phần mềm phù hợp?",
+      "excerpt": "5 tiêu chí quan trọng giúp bạn lựa chọn được đối tác phát triển phần mềm uy tín và chuyên nghiệp.",
+      "content": "Việc lựa chọn đối tác phát triển phần mềm đóng vai trò quyết định đến thành công của dự án...\n\n## 5 tiêu chí quan trọng\n\n### 1. Kinh nghiệm và chuyên môn\nXem xét portfolio và các dự án đã thực hiện trước đó.\n\n### 2. Quy trình làm việc\nĐối tác tốt phải có quy trình rõ ràng, minh bạch.\n\n### 3. Công nghệ và công cụ\nSử dụng công nghệ hiện đại, phù hợp với yêu cầu.\n\n### 4. Communication\nGiao tiếp hiệu quả là chìa khóa của dự án thành công.\n\n### 5. Hỗ trợ sau dự án\nCam kết bảo hành và hỗ trợ lâu dài.",
+      "author": "Trần Thị B",
+      "date": "2026-01-10",
+      "category": "Tư vấn",
+      "tags": ["phát triển phần mềm", "tư vấn", "lựa chọn đối tác"],
+      "featuredImage": "/blog/choose-software-partner.jpg",
+      "seo": {
+        "metaTitle": "Cách chọn đối tác phát triển phần mềm uy tín | TechPro",
+        "metaDescription": "Hướng dẫn chi tiết 5 tiêu chí quan trọng để lựa chọn đối tác phát triển phần mềm phù hợp cho doanh nghiệp của bạn.",
+        "keywords": ["phát triển phần mềm", "chọn đối tác IT", "outsourcing", "tư vấn công nghệ"],
+        "ogImage": "/blog/choose-software-partner.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "slug": "loi-ich-cua-cloud-computing",
+      "title": "Lợi ích của Cloud Computing cho doanh nghiệp vừa và nhỏ",
+      "excerpt": "Cloud computing không chỉ dành cho doanh nghiệp lớn. Tìm hiểu cách SME có thể tận dụng cloud để tăng trưởng.",
+      "content": "Cloud computing đang thay đổi cách thức hoạt động của doanh nghiệp vừa và nhỏ...\n\n## Lợi ích chính\n\n### Tiết kiệm chi phí\nKhông cần đầu tư hạ tầng ban đầu, chỉ trả theo mức sử dụng.\n\n### Tính linh hoạt\nDễ dàng mở rộng hoặc thu hẹp tài nguyên theo nhu cầu.\n\n### Bảo mật\nCác nhà cung cấp cloud đầu tư mạnh vào bảo mật.\n\n### Làm việc từ xa\nNhân viên có thể truy cập từ bất kỳ đâu.",
+      "author": "Lê Văn C",
+      "date": "2026-01-05",
+      "category": "Cloud Computing",
+      "tags": ["cloud computing", "SME", "tiết kiệm chi phí"],
+      "featuredImage": "/blog/cloud-benefits.jpg",
+      "seo": {
+        "metaTitle": "Lợi ích Cloud Computing cho SME - Hướng dẫn toàn diện | TechPro",
+        "metaDescription": "Khám phá cách Cloud Computing giúp doanh nghiệp vừa và nhỏ tiết kiệm chi phí, tăng tính linh hoạt và cải thiện hiệu suất.",
+        "keywords": ["cloud computing", "SME", "doanh nghiệp vừa và nhỏ", "tiết kiệm chi phí", "AWS", "Azure"],
+        "ogImage": "/blog/cloud-benefits.jpg"
+      }
+    }
+  ]
+}

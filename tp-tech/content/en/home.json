@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Complete Website Design Services - TP Creative Tech",
+    "subtitle": "Fast – Professional – Effective",
+    "description": "TP Creative Tech helps your brand appear at the right time, in the right place, easily reaching customers on all digital platforms.",
+    "paragraphs": [
+      "We provide complete website design solutions for businesses and individuals, ready for SEO, Digital Marketing and long-term growth.",
+      "At TP Creative Tech, every website is not only beautiful but also easy to use, optimized for performance and conversion – helping you focus on business development.",
+      "From interface design, system development to operation, TP Creative Tech accompanies you on your journey to build a digital brand."
+    ],
+    "ctaText": "Contact for Consultation",
+    "ctaPhone": "037 654 9230",
+    "ctaLink": "tel:0376549230",
+    "image": "/images/item.png"
+  },
+  "about": {
+    "title": "About TP Creative Tech",
+    "content": "With over 3 years of experience in information technology, TP Creative Tech is proud to be a trusted partner of enterprises in Vietnam and the region. We specialize in providing comprehensive technology solutions, from consulting and software development to digital transformation.",
+    "points": [
+      "3+ years of experience",
+      "30+ successful projects",
+      "Team of experienced experts",
+      "Quality and timeline commitment"
+    ],
+    "stats": [
+      { "number": 3, "suffix": "+", "label": "Years of Experience" },
+      { "number": 30, "suffix": "+", "label": "Successful Projects" },
+      { "number": 24, "suffix": "/7", "label": "Customer Support" },
+      { "number": 100, "suffix": "%", "label": "Quality Commitment" }
+    ],
+    "viewDetailsText": "View Details"
+  },
+  "services": {
+    "title": "Featured Services",
+    "subtitle": "Comprehensive technology solutions for all business needs"
+  },
+  "cta": {
+    "title": "Ready for Digital Transformation?",
+    "description": "Contact us today to receive free consultation on the right technology solution for your business.",
+    "buttonText": "Contact Now",
+    "buttonLink": "/contact"
+  },
+  "formContact": {
+    "title1": "Build a professional website",
+    "title2": "With TP Creative Tech now",
+    "companyLabel": "Company/Business Name",
+    "phoneLabel": "Contact Phone",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitLabel": "Request a Quote",
+    "companyPlaceholder": "e.g. ABC Company",
+    "phonePlaceholder": "e.g. 0901234567",
+    "emailPlaceholder": "e.g. info@company.com",
+    "messagePlaceholder": "e.g. I want a company website..."
+  },
+  "seo": {
+    "metaTitle": "TP Creative Tech - Enterprise Digital Transformation Partner",
+    "metaDescription": "TP Creative Tech provides comprehensive technology solutions: software development, IT consulting, digital transformation. Over 3 years of experience, 30+ successful projects.",
+    "keywords": ["digital transformation", "software development", "IT consulting", "IT solutions", "enterprise"],
+    "ogImage": "/og-home.jpg"
+  }
+}

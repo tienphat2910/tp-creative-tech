@@ -1,0 +1,9 @@
+{
+  "title": "404",
+  "subtitle": "Oops! Page Not Found",
+  "description": "We're working on it!",
+  "buttons": {
+    "home": "Go Home",
+    "contact": "Contact Us"
+  }
+}

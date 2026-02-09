@@ -1,0 +1,37 @@
+{
+  "siteName": "TechPro Solutions",
+  "tagline": "Your Trusted Technology Partner",
+  "logo": "/logo.svg",
+  "contact": {
+    "email": "info@techpro.vn",
+    "phone": "+84 24 1234 5678",
+    "address": "10th Floor, ABC Building, 123 Lang Street, Dong Da, Hanoi"
+  },
+  "social": {
+    "facebook": "https://facebook.com/techpro",
+    "linkedin": "https://linkedin.com/company/techpro"
+  },
+  "menu": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    {
+      "label": "Services",
+      "href": "/services",
+      "children": [
+        { "label": "Website Design", "href": "/services/web-design" },
+        { "label": "Website Maintenance", "href": "/services/web-maintenance" },
+        { "label": "E-Commerce Website", "href": "/services/ecommerce" },
+        { "label": "Mobile App", "href": "/services/mobile-app" }
+      ]
+    },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footer": {
+    "description": "TechPro Solutions is a pioneer in providing comprehensive technology solutions for Vietnamese enterprises.",
+    "copyright": "© 2026 TechPro Solutions. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact"
+  }
+}

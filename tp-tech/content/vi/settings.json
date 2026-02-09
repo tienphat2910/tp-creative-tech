@@ -1,0 +1,37 @@
+{
+  "siteName": "TechPro Solutions",
+  "tagline": "Đối tác công nghệ đáng tin cậy của doanh nghiệp",
+  "logo": "/logo.svg",
+  "contact": {
+    "email": "info@techpro.vn",
+    "phone": "+84 24 1234 5678",
+    "address": "Tầng 10, Tòa nhà ABC, 123 Đường Láng, Đống Đa, Hà Nội"
+  },
+  "social": {
+    "facebook": "https://facebook.com/techpro",
+    "linkedin": "https://linkedin.com/company/techpro"
+  },
+  "menu": [
+    { "label": "Trang chủ", "href": "/" },
+    { "label": "Về chúng tôi", "href": "/about" },
+    {
+      "label": "Dịch vụ",
+      "href": "/services",
+      "children": [
+        { "label": "Thiết kế website", "href": "/services/web-design" },
+        { "label": "Dịch vụ chăm sóc website", "href": "/services/web-maintenance" },
+        { "label": "Thiết kế E-Commerce website", "href": "/services/ecommerce" },
+        { "label": "App mobile", "href": "/services/mobile-app" }
+      ]
+    },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Liên hệ", "href": "/contact" }
+  ],
+  "footer": {
+    "description": "TechPro Solutions là đơn vị tiên phong trong việc cung cấp giải pháp công nghệ toàn diện cho doanh nghiệp Việt Nam.",
+    "copyright": "© 2026 TechPro Solutions. All rights reserved.",
+    "quickLinks": "Liên kết nhanh",
+    "services": "Dịch vụ",
+    "contact": "Liên hệ"
+  }
+}
